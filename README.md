@@ -37,7 +37,4 @@ If you want to get the latest changes from the repository, run:
 
 New Guys
 --------------------------------------------
-- Michael Male
-- Brandon Raines
-- Joshua Hinchliffe
 - Preben
